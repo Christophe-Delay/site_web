@@ -55,12 +55,13 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: normal;
 	font-family: 'Glegoo', serif;
 	color: #aba8a8;
+	margin: 10px;
 }
 
 h3 {
 	font-size: 30px;
 	line-height: 30px;
-	padding-top: 78px;
+	padding-top: 20px;
 	margin-bottom: 44px;
 }
 
@@ -72,7 +73,8 @@ h3 {
 h4 {
 	font-size: 18px;
 	line-height: 18px;
-	margin-bottom: 12px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 h4.head1 {
@@ -94,6 +96,13 @@ p {
 
 img {
 	max-width: 100%;
+	margin: 10px;
+}
+.catalogue_bannier {
+	width: 100%; 
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 address {
@@ -224,7 +233,8 @@ header {
 
 h1 {
 	z-index: 999;
-	margin-bottom: 51px;
+	font-size:250%;
+	margin-bottom: 20px;
 	text-align: center;
 
 }
@@ -256,10 +266,11 @@ h1 a img {
 
 .banner {
 	background: url(../images/banner_icon1.png) right 27px no-repeat;
-	margin-top: 30px;
 	border: 1px solid #d2d0d0;
-	padding: 49px 34px 40px;
+	padding: 30px 30px 30px 30px;
 	margin-bottom: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 .banner h3 {
@@ -574,6 +585,8 @@ td {
 table {
 	margin-left:auto; 
     margin-right:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #especes {

@@ -23,7 +23,7 @@ body {
 .container_12 {
   margin-left: auto;
   margin-right: auto;
-  width: 960px;
+  width: 850px;
 }
 
 /* `Grid >> Global
@@ -104,7 +104,9 @@ body {
 }
 
 .container_12 .grid_8 {
-  width: 620px;
+  width: 700px;
+  margin-left:40px; 
+  margin-right:75px;
 }
 
 .container_12 .grid_9 {
@@ -131,7 +133,7 @@ body {
 }
 
 .container_12 .prefix_2 {
-  padding-left: 160px;
+  padding-left: 10px;
 }
 
 .container_12 .prefix_3 {
